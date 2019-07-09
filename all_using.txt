@@ -9,3 +9,4 @@ feat A03 test
 Feat B03 first test
 
 feat A04 first test
+feat B04 test

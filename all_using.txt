@@ -13,3 +13,5 @@ feat B04 test
 
 feat A05 before confilct
 feat B05 before conflict
+
+feat A06 before conflict

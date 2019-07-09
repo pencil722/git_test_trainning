@@ -5,3 +5,5 @@ A02 001 commit : add
 A03 002 commit : modify
 
 A04 002 commit : modify
+
+A05 002 COMMIT : before conflict

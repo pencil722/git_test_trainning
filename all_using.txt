@@ -17,3 +17,5 @@ feat B05 before conflict
 feat A06 before conflict
 
 feat B06 fist commit 
+
+feat B06 second commit

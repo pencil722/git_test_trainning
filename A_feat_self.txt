@@ -7,3 +7,5 @@ A03 002 commit : modify
 A04 002 commit : modify
 
 A05 002 COMMIT : before conflict
+
+A06 002 COMMIT : before conflict

@@ -12,3 +12,4 @@ feat A04 first test
 feat B04 test
 
 feat A05 before confilct
+feat B05 before conflict
